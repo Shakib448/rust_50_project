@@ -1,3 +1,4 @@
+workspace = { members = ["hasmap__"] }
 [package]
 name = "async_req"
 version = "0.1.0"
